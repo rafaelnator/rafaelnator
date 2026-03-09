@@ -4,7 +4,7 @@
 import Desenvolvedor from 'Rafael';
 class SobreMim extends Desenvolvedor {
   nome       = 'Rafael dos Santos Girogi';
-  idade      = '18 anos';
+  idade      = '20 anos';
   area       = 'Desenvolvedor Back-End';
   cursando   = 'Análise e Desenvolvimento de Sistemas 5° Semestre';
   local      = 'Campinas, SP';
